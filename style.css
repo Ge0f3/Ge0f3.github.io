@@ -1,0 +1,22 @@
+body{
+	background-color: white;
+}
+div.leftside{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+}
+img{
+	position: absolute;
+}
+div.rightside { 
+	width: 500px;
+	height: 500px;
+	left: 600px;  
+	position: absolute;
+    border-left: 2px solid black ;
+}
+div.jumbotron{
+	padding-bottom: 20px;
+	background-color: #607DA5;
+}
